@@ -1,6 +1,4 @@
-
-This class aims to provide a strong foundation for students to
-understand modern computer system architecture and to apply these
+This class wants to provide a strong foundation for students to understand modern computer system architecture and to apply these
 insights and principles to future computer designs. The course is
 structured around the three primary building blocks of general-purpose
 computing systems: processors, memories, and networks.
